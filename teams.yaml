@@ -119,6 +119,10 @@
 - id: HRS2
   team: Team Systemetric B
   college: Hills Road Sixth Form College
+  notes:
+    - Competed for the first time last year, came 2nd
+    - Also competing in first
+    - Don't use the IDE
 
 - id: HSO
   team: Headington School Oxford A
@@ -130,6 +134,9 @@
 - id: HSO2
   team: Headington School Oxford B
   college: Headington School
+  notes:
+    - rookie team
+    - took first movement this year (provisional)
 
 - id: HZW
   team: Team Hazelwick
@@ -144,6 +151,7 @@
 - id: MAI
   team: Team MAI
   college: Gymnasium Markt Indersdorf
+  notes:
     - Rookie (yes)
     - German
     - Got the kit in December
@@ -177,9 +185,13 @@
     - Aslan last year won outstanding team
     - Drilled through a two pence coin.
 
-- id: PSC2Team Futurama
+- id: PSC2
   team: Team Futurama
   college: Peter Symonds College
+  notes:
+    - PSC have won every year but 2011
+    - Aslan last year won outstanding team
+    - Drilled through a two pence coin.
 
 - id: QEH
   team: Team QEH
@@ -221,6 +233,8 @@
 - id: SEN2
   team: Team Southend B
   college: Southend School
+  notes:
+    - 2 teams last year also, both made it to semifinals
 
 - id: STA
   team: Team St Anne's
