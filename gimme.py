@@ -12,7 +12,7 @@ def gimme(team):
     tm = team_db[team.upper()]
     print "{0}: {1}".format(tm['id'], tm['team'])
     print "{0}".format(tm['college'])
-    for note in tm['notes']:
+    for note in tm.get('notes', ()):
         print " - {0}".format(note)
     print ""
 
