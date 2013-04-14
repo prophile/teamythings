@@ -1,0 +1,244 @@
+- id: ALT
+  team: Team Alton
+  college: Alton College
+  notes:
+    - rookie team
+
+- id: BAM
+  team: Bambotics
+  college: Bamberg, most Kaiser Heinrich Gymnasium
+  notes:
+    - German
+    - rookie team
+    - call themselved Bambotics
+    - robots basic structure is based on beer crate 
+    - (the area they come from is known for having many small breweries)
+
+- id: BGR
+  team: Team BGS
+  college: Bristol Grammar School
+  notes:
+    - made it to quarterfinals last year, lost out to Hills Road and QEH
+
+- id: BPV
+  team: Team Barton Peveril
+  college: Barton Peveril College
+  notes:
+    - rookie team, very close to Southampton
+
+- id: BRK
+  team: Team Brockenhurst
+  college: Brockenhurst College
+  notes:
+    - Came 4th last year
+
+- id: BWS
+  team: Team BWS
+  college: Bishop Wordsworth's School
+  notes:
+    - amusing story about drills as saws
+    - made it to quarterfinals last year, lost out to PSC and Southend
+    - murdered QMC's robot in 2011 (only disqualification in SR history)
+
+- id: CLF
+  team: Team Clifton High
+  college: Clifton High School
+  notes:
+    - split efforts last year mean they didn't make it to quarterfinals
+
+- id: CLY
+  team: Team Collyers
+  college: Collyers Sixth Form College
+  notes:
+    - rookie team
+
+- id: CPR
+  team: Team Cooper
+  college: The Cooper School
+  notes:
+    - rookie team
+
+- id: CRB
+  team: Cranbrook ThunderBots
+  college: Cranbrook School
+  notes:
+    - rookie team
+    - Third highest forum post count (not inc blueshirts)
+    - Made loads of test tokens. 
+
+- id: EMM
+  team: Team Mounier
+  college: Lycée Emmanuel Mounier
+  notes:
+    - French (obviously)
+    - made it to quarterfinals last year, lost out to Brockenhurst and Munich
+
+- id: GMR
+  team: Grey Matter Robotics
+  college: Independent
+  notes:
+    - strong web presence
+    - bloody hoverbot
+    - hosting our kickstart talks
+    - Last year robot just went straight into walls smashing stolen spoons from the coffee table
+    - Have corporate sponsorship
+    - Ollie has highest post count on the forums (Higher than any blueshirt).
+    - Reads our mailing list - probably filled in half of these facts themselves
+    - Smallest competing team
+
+
+- id: GRD
+  team: Gordano Robotics
+  college: Gordano School
+  notes:
+    - rookie team
+    - evidence that team contains Batman
+    - Robot was originally called Jefferey, later "evolved" into The Thunder Puppet
+    - Grabbers designed to look like the claws of a stag beetle
+    - Wrote this http://1.bp.blogspot.com/-QUVC_xqfGss/UTd_3C2xicI/AAAAAAAAAGE/qM5UzH9bBxY/s1600/program.PNG
+    - Robot's wheels are large and pink - salvaged from what was probably a toy pram, also makes use of a chain 
+      drive system
+    - Original chassis was wooden, later upgraded to an aluminium/plastic composite
+    - Constructed a mini-arena for strategising
+    - Very cool blog, but almost no forum presence
+
+- id: GRS
+  team: Gresham's Robotics
+  college: Gresham's School
+  notes:
+    - made it to quarterfinals last year, lost out to Taunton's and Southend
+
+- id: HRS
+  team: Team Systemetric A
+  college: Hills Road Sixth Form College
+  notes:
+    - Competed for the first time last year, came 2nd
+    - Also competing in first
+    - Don't use the IDE
+
+- id: HRS2
+  team: Team Systemetric B
+  college: Hills Road Sixth Form College
+
+- id: HSO
+  team: Headington School Oxford A
+  college: Headington SchoolTeam Systemetric B
+  notes:
+    - rookie team
+    - took first movement this year (provisional)
+
+- id: HSO2
+  team: Headington School Oxford B
+  college: Headington School
+
+- id: HZW
+  team: Team Hazelwick
+  college: Hazelwick Comprehensive School
+
+- id: JMS
+  team: Team John Mason
+  college: John Mason School
+  notes:
+    - rookie team
+
+- id: MAI
+  team: Team MAI
+  college: Gymnasium Markt Indersdorf
+    - Rookie (yes)
+    - German
+    - Got the kit in December
+    - Scared other teams on the forums saying they were behind because of above when they were not.
+    - built an in scale arena this week
+    - changed the mechanisms twice, can (probably) put a token on top of a token that's on a pedestal
+
+- id: MFG
+  team: MFG Robotics 2013
+  college: Mirfield Free Grammar
+  notes:
+    - won awards of various kinds every year they've competed
+    - came 3rd in 2011 and took the chairman's award
+    - tied with Hills Road last year in quarterfinals (who then came 2nd), lost out on league points
+    - Online presence and first movement last year
+    - Chairmans and online presence the year before
+
+- id: PLE
+  team: Asternal
+  college: Poole Grammar
+  notes:
+    - rookie team
+    - Killed two motor boards with high current draw motors, new ones "should" be 5 amp stall current
+    - Obtained ~£400 from school to buy parts and pay for travel to/from events just by asking headmaster
+
+- id: PSC
+  team: Team Sky Crane
+  college: Peter Symonds College
+  notes:
+    - PSC have won every year but 2011
+    - Aslan last year won outstanding team
+    - Drilled through a two pence coin.
+
+- id: PSC2Team Futurama
+  team: Team Futurama
+  college: Peter Symonds College
+
+- id: QEH
+  team: Team QEH
+  college: Queen Elizabeth's Hospital School
+  notes:
+    - Came 3rd last year
+    - First movement in 2011
+    - Last year's robot contained a cog that was cast out of hot glue, and was named the "Sexy Monkey"
+    - This years robot is called the cow goes mu.
+    - Biggest team this year.
+    - Have a soft cow mascot which takes a fair amount of abuse.
+    - Probably shouldn't be allowed power tools...or even a stapler, are a danger to themselves
+
+- id: QMC
+  team: Team QMC
+  college: Queen Mary's College
+  notes:
+    - made it to quarterfinals last year, lost out to Munich and Brockenhurst
+    - Third year entering
+    - won the committee award last year
+    - robot destroyed in 2011
+    - LARGE team this year, wanted two kits
+
+- id: RES
+  team: Team RES
+  college: Reed's School
+  notes:
+    - rookie team
+    - probably won't turn up.
+    - if they do turn up, they've never used the ide so this will be amazing.
+    - we live in hope
+
+- id: SEN
+  team: Team Southend A
+  college: Southend School
+  notes:
+    - 2 teams last year also, both made it to semifinals
+
+- id: SEN2
+  team: Team Southend B
+  college: Southend School
+
+- id: STA
+  team: Team St Anne's
+  college: St Anne's Catholic School
+  notes:
+    - returning team (did not compete last year)
+
+- id: SWG
+  team: SWGS
+  college: South Wilts Grammar School for Girls
+  notes:
+    - rookie team
+    - mainly from Bishop Wordsworth SWGS
+
+- id: TWG
+  team: Not So Much Chaos
+  college: Tunbridge Wells Grammar School for Boys
+  notes:
+    - rookie team
+
+
